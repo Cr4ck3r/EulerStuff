@@ -1,0 +1,10 @@
+meal = 10.00
+tax = 0.05
+tip = 0.20
+
+#Everything below can be simplified, just expirementing with changing variables.
+
+meal = meal + meal * tax
+total = meal + meal * tip
+
+print("%.2f" % total)
