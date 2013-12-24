@@ -1,4 +1,4 @@
 Python
 ======
 
-Project Euler 1 Python
+Blah blah blah, learning Python
